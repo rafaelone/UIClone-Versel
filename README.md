@@ -1,5 +1,3 @@
-<img src="./assets/dashboard.png" alt="Dashboard Github" title="Dashboard Github" />
-
 <h1 align="center">
   UI Clone Vercel
 </h1>
